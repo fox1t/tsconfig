@@ -1,5 +1,5 @@
 {
-	"name": "@fox1t/tsconfig",
+	"name": "fox1t-tsconfig",
 	"version": "0.1.0",
 	"description": "Shared TypeScript configuration",
 	"license": "MIT",

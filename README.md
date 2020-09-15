@@ -5,7 +5,7 @@
 ## Install
 
 ```
-$ npm install --save-dev @fox1t/tsconfig
+$ npm install --save-dev fox1t-tsconfig
 ```
 
 ## Usage
@@ -14,7 +14,7 @@ $ npm install --save-dev @fox1t/tsconfig
 
 ```json
 {
-  "extends": "@fox1t/tsconfig",
+  "extends": "fox1t-tsconfig",
   "compilerOptions": {
     "outDir": "build",
     "target": "es2018",
