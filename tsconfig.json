@@ -8,6 +8,7 @@
     "noEmitOnError": true,
     "strict": true,
     "resolveJsonModule": true,
+    "removeComments": true,
     "jsx": "react",
     "newLine": "lf",
     "noUnusedLocals": true,
